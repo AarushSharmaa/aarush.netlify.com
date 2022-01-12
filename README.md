@@ -1,4 +1,4 @@
-# aarush.netlify.app
+# https://aarush-sharma.netlify.app/
 
 * Hi Everyone, This is a very simple portfolio built using **HTML** and **CSS**. 
 
