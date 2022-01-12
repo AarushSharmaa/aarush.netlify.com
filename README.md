@@ -1,6 +1,6 @@
-# aarush.netlify.com
+# aarush.netlify.app
 
-* Hi Everyone, This is a very simple portfolio built using **HTML** and **CSS**.
+* Hi Everyone, This is a very simple portfolio built using **HTML** and **CSS**. 
 
 For anyone who is starting out in their HTML and CSS journey, these codes can be helpful. 
 - This will lead to a single page basic webpage, but understanding the flow from coding it in your editor and then deploying it using Netlify makes the learning path better.
