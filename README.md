@@ -12,3 +12,8 @@ A few important facts about HTML and CSS :
 - Question : What is a **Markup Language**? 
 - Answer : A computer language that consists of easily understood keywords, names, or tags that help format the overall view of a page and the data it contains. Some examples of a markup language are BBC, HTML, SGML, and XML
 - To conclude, **HTML gives structure to a webpage and CSS makes it look beautiful.**
+
+### Let us see the flow of how this was deployed in very broad terms
+#### Could be useful for absolute beginners like me -->
+
+Code in an editor of your chouce --> Push the folder on Github --> Deploy it using Netlify
