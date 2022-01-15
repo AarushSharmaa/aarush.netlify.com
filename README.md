@@ -1,5 +1,7 @@
 # https://aarush-sharma.netlify.app/
 
+## For absolute beginners like me
+
 * Hi Everyone, This is a very simple portfolio built using **HTML** and **CSS**. 
 
 For anyone who is starting out in their HTML and CSS journey, these codes can be helpful. 
